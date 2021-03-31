@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316770693256",
+    "project_id": "userregistrationapp-2edd2",
+    "storage_bucket": "userregistrationapp-2edd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316770693256:android:2ee20c3f3e290f164c2f3d",
+        "android_client_info": {
+          "package_name": "com.hcl.userregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316770693256-h4j1g8h4e6jkosem7uapicsk06sp2fhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaywulUOYy13OF-0JtfpSKsrahMRS7uDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316770693256-h4j1g8h4e6jkosem7uapicsk06sp2fhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
